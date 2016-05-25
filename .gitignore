@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# except:
+!sendemail.py
+!README.md
+!.gitignore
+
